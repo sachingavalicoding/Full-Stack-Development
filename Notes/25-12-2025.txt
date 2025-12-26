@@ -1,0 +1,35 @@
+Plan for full stack app
+
+Idea's 
+1.Note's Application for dev notes easy to access content after writing there.
+2.Portfolio website that will be helpful for gaining our dev flow back.
+3.practice Dsa question to make your self better.
+4.learn new tech like app dev or ai integration.
+5.learn start to end web development that will be helpful for get back to flow.
+
+i think dsa is a ultimate solution bcz you seen so many developer get stucks .
+
+
+for now we can make an notes okay this is done now.
+
+
+*Notes Full stack application*
+
+> Features 
+1.Crud Notes 
+2.multi level notes add like  section -> sub section -> topic -> Note number -> add tags,references, images, file , links 
+3.public or private 2 posts available for add notes 
+4.admin access to check about all notes 
+5.centrailized server that have all notes 
+6.share button that can be help to share on what's app or insta 
+7.
+
+applications specifications 
+1.Mobile based application needed.
+2.database base for multi users 
+3.AI integration for better working 
+
+
+Jan - 2026 
+3 months 90 days 
+
