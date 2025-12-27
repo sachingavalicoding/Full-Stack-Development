@@ -21,8 +21,7 @@ for now we can make an notes okay this is done now.
 3.public or private 2 posts available for add notes 
 4.admin access to check about all notes 
 5.centrailized server that have all notes 
-6.share button that can be help to share on what's app or insta 
-7.
+6.share button that can be help to share on what's app or Instagram.
 
 applications specifications 
 1.Mobile based application needed.
